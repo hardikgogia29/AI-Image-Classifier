@@ -6,6 +6,9 @@ This project is a deep learning-based image classifier that distinguishes betwee
 ## Dataset
 Source: CIFAKE - Real and AI Generated Synthetic Images: https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images/data
 
+## Live Webpage(Till 29/06/25)
+https://cab3baf481cb15304a.gradio.live
+
 
 ## Classes:
 
